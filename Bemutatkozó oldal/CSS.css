@@ -1,0 +1,66 @@
+body{
+    background-color: crimson;
+    margin-top:20px;
+    }
+.tároló h1{
+    font-family: "Fjalla One";
+    text-decoration: underline;
+    text-align: center;
+
+}
+
+.doboz0{
+
+    color: white;
+    padding: 20px;
+    background-color: rgb(8, 17, 19);
+    border-style: solid;
+    border-color: white;
+    border-radius: 20px;
+}
+.doboz0 h1{
+    color: crimson;
+
+    text-align: center;
+}
+.cicak{
+    text-align: center;
+    background-color: rgb(8, 17, 19);
+    border-style: solid;
+    border-color: white;
+    border-radius: 20px;
+    color: crimson;
+}
+img{
+    height: 498px;
+    width: 281px;
+}
+.doboz{
+
+    border: 3px;
+    padding: 20px;
+    background-color: rgb(8, 17, 19);
+    border-style: solid;
+    border-color: white;
+    border-radius: 20px;
+    color: crimson;
+}
+
+p{
+    font-size: 20px;
+}
+
+a:hover{
+    color:crimson;
+}
+a:active{
+    color:green;
+}
+a:visited{
+    color:white;
+}
+
+form input [type="text"] {
+    padding: 10px;
+    width: 100%;
+}
